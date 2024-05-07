@@ -1,5 +1,7 @@
 # Andrew Beekman 05/03/2024
 
+import tkinter as tk
+from tkinter import ttk
 import sqlite3
 
 conn = sqlite3.connect('Student Info Group.db')
